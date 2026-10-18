@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Areeba+%F0%9F%91%8B;Designer+turned+AI+builder;Exploring+Multimodal+AI+%E2%80%94+Vision+%2B+Language;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Areeba+%F0%9F%91%8B;Designer+turned+AI+builder;Exploring+Multimodal+AI+%E2%80%94+Vision+%2B+Language;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
@@ -13,6 +15,7 @@ class Areeba:
         self.domain = "Multimodal AI (Computer Vision + NLP)"
         self.background = ["UI/UX Design", "Illustration", "Graphic Design"]
         self.currently_learning = ["Python", "Computer Vision", "LLM APIs", "RAG"]
+        self.also = "certified cat person 🐱"
         self.note = "Started in design, now building toward AI — bringing both together"
 
     def say_hi(self):
@@ -68,6 +71,6 @@ print(me.say_hi())
 
 Building my first real AI projects, one project at a time — learning in public.
 
-<sub>Last updated: actively building</sub>
+<sub>Last updated: actively building (and probably petting a cat)</sub>
 
 </div>
